@@ -36,6 +36,6 @@ img {
 /* The image is displayed square for viewport larger than 960px */
 @media (min-width: 960px) {
   .header {
-    grid-template-columns: repeat(2, 1fr);;
+    grid-template-columns: repeat(2, 1fr);
   }
 }
