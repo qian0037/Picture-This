@@ -38,11 +38,11 @@ img {
   .header {
     grid-template-columns: repeat(2, 1fr);
   }
-  
+
 /* The image is displayed landscape for viewport smaller than 960px */
   @media (max-width: 960px) {
     .header {
       grid-template-columns: repeat(2, 1fr);
     }
-
-}
+  
+  }
